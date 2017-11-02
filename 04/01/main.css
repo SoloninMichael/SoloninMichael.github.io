@@ -1,0 +1,21 @@
+H1 {
+  color: #000080;
+  font-size: 200%;
+  text-align: center;
+}
+P {
+  padding: 20px;
+}
+.center {
+  text-align: center;
+  width: 960px; /* Ширина элемента в пикселах */
+  padding: 10px; /* Поля вокруг текста */
+  margin: auto; /* Выравниваем по центру */
+  background: rgb(255, 246, 238); /* Цвет фона */
+ }
+ul{
+  color: #3E066B;
+}
+img{
+  padding: 20px;
+}
