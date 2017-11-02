@@ -1,1 +1,0 @@
-# SoloninMichael.github.io
